@@ -1,0 +1,36 @@
+In this demo, you will:
+Learn how to use Visual Studio Code and the IoT extensions for Visual Studio Code 
+
+Install Visual Studio Code
+   Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS      and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other        languages (such as C++, C#, Java, Python, PHP, Go) and run times (such as .NET and Unity).
+
+1. To open the Visual Studio Code download page, click the following link: Download Visual Studio Code
+
+   Instructions for installing Visual Studio Code on Mac OS X and Linux can be found on the Visual Studio Code set up guide here. This      page also includes more detailed instructions and tips for the Windows installation.
+
+2. On the Download Visual Studio Code page, click Windows.
+
+   When you start the download, two things will happen: a popup dialog opens and some getting started guidance will be displayed.
+
+3. On the popup dialog, to begin the setup process, click Run and then follow the on-screen instructions.
+
+   If you choose to Save the installer to your Downloads folder, you you can complete the installation by opening the folder and then      double-clicking the VSCodeSetup executable.
+
+   By default, Visual Studio Code is installed in the "C:\Program Files (x86)\Microsoft VS Code" folder location (for a 64-bit machine).    The setup process should only take about a minute.
+
+     Note: .NET Framework 4.5 is required for Visual Studio Code when installing on Windows. If you are using Windows 7, please ensure       .NET Framework 4.5 is installed.
+
+   For detailed instructions on installing Visual Studio Code, see the Microsoft Visual Studio Code Installation Instruction guide here:    https://code.visualstudio.com/Docs/editor/setup
+
+
+Install Visual Studio Code Extensions
+    1. Open Visual Studio Code.
+
+    2. On the left side of the Visual Studio Code window, click Extensions.
+
+         The Extensions button is sixth from the top. You can hover the mouse pointer over the buttons to display the button titles.
+
+    3. In the Visual Studio Code Extension manager, search for and then install the following Extensions:
+
+         Azure IoT Tools (vsciot-vscode.azure-iot-tools) by Microsoft
+         C# for Visual Studio Code (ms-vscode.csharp) by Microsoft
